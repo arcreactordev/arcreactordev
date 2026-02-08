@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building [Open Velo](https://github.com/Open0Velo)<br>🌱 Exploring the world of AI & Machine Learning<br>👯 Open to collaborations on Velolabs<br>📝 Sharing my thoughts and projects on [Medium](https://medium.com/@vishalxdev)(I also yapp a lot here :) ) <br>💬 Ask me anything—tech, web dev, or just cool ideas!<br>📫 Reach me at 04vishal.com@gmail.com
+🔭 Currently building [Open Velo](https://github.com/Open0Velo)<br>🌱 Exploring the world of AI & Machine Learning<br>👯 Open to collaborations on Velolabs<br>📝 Sharing my thoughts and projects on [Medium](https://medium.com/@vishalxdev) (I also yapp a lot here :} ) <br>💬 Ask me anything—tech, web dev, or just cool ideas!<br>📫 Reach me at 04vishal.com@gmail.com
 
 
 ## 🌐 Socials:
