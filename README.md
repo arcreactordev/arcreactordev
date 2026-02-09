@@ -1,4 +1,4 @@
-<h1 align="center">Vishal X Dev</h1>
+<h1 align="center">Vishal</h1>
 <p align="center">Full Stack Developer • Open Source • AI Exploration</p>
 
 ---
