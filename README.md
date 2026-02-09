@@ -18,21 +18,10 @@
 
 <p align="center">
 
-<a href="https://x.com/VishalxDev">
-<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://dev.to/vishalxdev">
-<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/>
-</a>
-
-<a href="https://app.daily.dev/vishalxdev">
-<img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=flat-square&logo=daily.dev&logoColor=white"/>
-</a>
-
-<a href="mailto:04vishal.com@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://x.com/VishalxDev">X</a> •
+<a href="https://dev.to/vishalxdev">Dev.to</a> •
+<a href="https://app.daily.dev/vishalxdev">daily.dev</a> •
+<a href="mailto:04vishal.com@gmail.com">Email</a>
 
 </p>
 
