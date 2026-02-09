@@ -1,23 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Vishal+X+Dev;Full+Stack+Web+Developer;Building+Open+Source+Projects;Exploring+AI+and+Systems" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750652-6d0c1f7b-2cbb-4d1c-8c1b-0c72e4eebbb3.gif" width="900"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&color=8A2BE2&center=true&vCenter=true&width=700&lines=Vishal+X+Dev;Full+Stack+Developer;Building+Open+Source;Exploring+AI+Systems"/>
 </p>
 
 ---
 
 ## About
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212750646-6b4a4e1c-5b89-4b54-b67e-96fcd1c5bc7b.gif"/>
-
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212750693-2b5e0cbb-7a3e-4e3f-bac3-6f3bbcf9d3b3.gif"/>
 
 Currently building **Open Velo**  
-Exploring artificial intelligence and machine learning  
-Open for collaborations under Velolabs  
+Exploring Artificial Intelligence & Machine Learning  
+Open for collaboration under Velolabs  
 Writing technical content on Medium  
-Always interested in discussing engineering, architecture and startup ideas  
+Interested in engineering and startup architecture  
 
 Contact: 04vishal.com@gmail.com
 
@@ -32,7 +27,7 @@ Contact: 04vishal.com@gmail.com
 </a>
 
 <a href="https://www.behance.net/vishalxdev">
-<img src="https://img.shields.io/badge/behance-1769ff?style=flat-square&logo=behance&logoColor=white"/>
+<img src="https://img.shields.io/badge/behance-1769FF?style=flat-square&logo=behance&logoColor=white"/>
 </a>
 
 <a href="https://discord.gg/ctsQCpN766">
@@ -44,7 +39,7 @@ Contact: 04vishal.com@gmail.com
 </a>
 
 <a href="https://x.com/VishalxDev">
-<img src="https://img.shields.io/badge/x-black?style=flat-square&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/x-000000?style=flat-square&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://dev.to/vishalxdev">
@@ -66,55 +61,41 @@ Contact: 04vishal.com@gmail.com
 ## Tech Stack
 
 ### Languages
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,md&perline=6"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,md"/>
 </p>
 
 ---
 
 ### Frontend
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,sass,mui"/>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/socket.io-000000?style=flat-square&logo=socket.io"/>
-</p>
-
 ---
 
-### Backend and Runtime
-
+### Backend & Runtime
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,bun"/>
 </p>
 
 ---
 
-### Databases and BaaS
-
+### Databases & BaaS
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,firebase,supabase"/>
 </p>
 
 ---
 
-### Hosting and Infrastructure
-
+### Hosting & Infrastructure
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku,render"/>
 </p>
 
 ---
 
 ### Tooling
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,yarn,eslint,postman"/>
 </p>
@@ -122,7 +103,6 @@ Contact: 04vishal.com@gmail.com
 ---
 
 ### Testing
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=playwright,selenium"/>
 </p>
@@ -130,15 +110,8 @@ Contact: 04vishal.com@gmail.com
 ---
 
 ### Design
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/krita-203759?style=flat-square&logo=krita"/>
-<img src="https://img.shields.io/badge/affinity_photo-7E4DD2?style=flat-square"/>
 </p>
 
 ---
