@@ -10,7 +10,8 @@
 
 ## About
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212750646-6b4a4e1c-5b89-4b54-b67e-96fcd1c5bc7b.gif"/>
+
 
 Currently building **Open Velo**  
 Exploring artificial intelligence and machine learning  
