@@ -14,8 +14,6 @@
 
 
 
-# Github Stats
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=arcreactordev)](https://git.io/streak-stats)
 
 # Dev.to
 <a href="https://app.daily.dev/vishalxdev"><img src="https://api.daily.dev/devcards/v2/4lv5OUwXo9IQGWZfeej55.png?r=su1&type=wide" width="652" alt="Vishal's Dev Card"/></a>
