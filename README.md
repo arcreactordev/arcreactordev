@@ -59,4 +59,5 @@
 
 
 ## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_ID?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=20px)](https://discord.com/users/1459543078800064575)
+<img src="https://api.lanyard.rest/v1/users/1459543078800064575" />
+
