@@ -56,3 +56,7 @@
 <img src="https://api.daily.dev/devcards/v2/4lv5OUwXo9IQGWZfeej55.png?r=su1&type=wide" width="600"/>
 </a>
 </p>
+
+
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_ID?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=20px)](https://discord.com/users/YOUR_ID)
