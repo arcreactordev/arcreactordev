@@ -58,6 +58,4 @@
 </p>
 
 
-## Discord
-<img src="https://api.lanyard.rest/v1/users/1459543078800064575" />
 
